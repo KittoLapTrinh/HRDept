@@ -1,9 +1,9 @@
 HRDept Manager List User
 - Some functions:
 
-*Login
+#Login
 
-*Logout
+#Logout
 
 #Add_User
 
