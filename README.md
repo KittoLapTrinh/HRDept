@@ -1,13 +1,20 @@
-HRDept
-- Some functions
+HRDept Manager List User
+- Some functions:
+
 *Login
+
 *Logout
+
 #Add_User
+
 #Delete_User
+
 #Edit_User
 
 #Search_User_By_LastName
+
 #Search_User_By_FirstName
+
 #Search_User_By_Email
 
 #SortByRole
