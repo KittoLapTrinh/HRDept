@@ -1,7 +1,7 @@
 HRDept
 - Some functions
-#Login
-#Logout
+*Login
+*Logout
 #Add_User
 #Delete_User
 #Edit_User
